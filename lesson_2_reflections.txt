@@ -24,5 +24,7 @@ Each branch with its commits can be shown in the diagram separately.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+They are merged into a single branch that the user is currently in. Commits in both branch can be accessed.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
