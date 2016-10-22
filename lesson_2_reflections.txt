@@ -28,3 +28,5 @@ They are merged into a single branch that the user is currently in. Commits in b
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging save time for us but it can cause problems when there are conflicts between files.
