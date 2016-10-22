@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 A new repostiory is created. You can track history of the files.
 
@@ -18,6 +18,8 @@ organized? How would branches help?
 When you want to experiment some new features. You can easily track the history of your experiment without messing up with the official version.
 
 How do the diagrams help you visualize the branch structure?
+
+Each branch with its commits can be shown in the diagram separately.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
